@@ -1,29 +1,36 @@
-## Welcome to my Github 👋
+![Purple gig poster with Steve’s name and an electric guitar](assets/steve-gig-poster.webp)
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=700&backgroundColor=%23892d93&backgroundOpacity=0.64&cursorStyle=blank&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hi%2C+I%27m+Steve+%F0%9F%92%BB+Software+Developer%22%2C%22font%22%3A%22Manufacturing+Consent%22%2C%22fontSize%22%3A40%2C%22typingSpeed%22%3A0.2%7D%2C%7B%22text%22%3A%22Frustrated+Musician%22%2C%22font%22%3A%22Manufacturing+Consent%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.3333333333333333%7D%2C%7B%22text%22%3A%22Bike+enthusiast%22%2C%22font%22%3A%22Manufacturing+Consent%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.3333333333333333%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+# Hi, I’m Steve
 
-<img src="https://badgen.net/badge/head/banger/red?icon=php" />
+I’m a software developer and a frustrated musician. I build small tools for things I keep doing by hand. Sometimes the tool even saves time.
 
-- 🔭 I’m currently working on ... many things
-- 🌱 I’m currently learning ... not enough
-- 👯 I’m looking to collaborate on ... nothing
-- 🤔 I’m looking for help with ... nothing
-- 💬 Ask me about ... nothing
-- 📫 How to reach me: ... pls don't 
-- 😄 Pronouns: ... what bs is that
-- ⚡ Fun fact: ... not fun, just suffering
+[Dotfiles](https://github.com/stvnbvsts/dotfiles#readme) · [Personal site](https://stvnbvsts.github.io/)
 
-<!--
-**stvnbvsts/stvnbvsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gigtape
 
-Here are some ideas to get you started:
+I built Gigtape because before a gig, I wanted to listen to the songs the band had actually been playing on tour. It turns setlist.fm data into Spotify playlists. There’s a Go API and CLI, plus a Vue web app. [Explore Gigtape](https://github.com/stvnbvsts/gigtape#readme)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+<summary>Sample playlist from In Flames at Wacken 2026</summary>
+
+Four tracks from the set, in show order.
+
+1. Colony
+2. Cloud Connected
+3. Only for the Weak
+4. Take This Life
+
+[Full setlist on setlist.fm](https://www.setlist.fm/setlist/in-flames/2026/infield-faster-stage-wacken-germany-734cbaf9.html)
+
+</details>
+
+## Away from the keyboard
+
+I like spending time with my family, taking my Canon out on walks, and riding my gravel bike. I commute by bike when the weather cooperates and play guitar or bass when I have the energy. I support FC Bayern and América de Cali.
+
+I’ve been digging into the Gothenburg death metal sound lately. In Flames, Trivium, and Black Sabbath share listening time with Pastor López and vallenato. I’ve made it to Wacken and Rock al Parque. Hellfest is still on the list.
+
+## On repeat
+
+Candlemass — [*Nightfall*](https://peaceville.bandcamp.com/album/nightfall)
